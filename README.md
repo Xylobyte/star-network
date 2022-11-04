@@ -1,5 +1,8 @@
 # Star Network Switch
 
+## Repository
+https://github.com/Xylobyte/star-network
+
 ## Group Members
 Donovan Griego and Jai Bhullar
 
