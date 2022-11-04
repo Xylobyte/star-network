@@ -45,4 +45,3 @@ with 50 nodes and random inputs.
 ## Known Bugs
 - Nodes can sometimes refuse to connect to the router. There is no obvious reason as to why this occurs. We have determined that
   this is likely due to the Python sockets library being unreliable at times. This is solved by terminating and restarting the program.
-- 
